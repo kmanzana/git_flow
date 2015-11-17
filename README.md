@@ -1,7 +1,13 @@
-- assumptions
+#### What would you like to learn? What questions would you like answered?
 
-- git commands
+#### assumptions
+
+#### Agenda
+- git commands/worfklow
+  - reset commit soft/hard
+  - resolving conflicts
 - branching/merging
+  - creating branches
   - merge vs. rebase
 - PR workflow
 - current Qwinix workflow
@@ -13,17 +19,17 @@
   - description
   - pros cons
 - release branches
+- random hacks
+ - `subl` setup
+ - sublime config
+ - oh-my-zsh
+ - aliases
+ - `t` on github
 
 
 
-subl setup
-sublime config
-oh my zsh
-aliases
-t on github
 
 
 
-reset commit soft/hard
-resolving conflicts
-creating branches
+
+
