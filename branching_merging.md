@@ -1,6 +1,9 @@
 #### Branching & Merging
 
 - checkout
+  - `git checkout master`
+  - `git checkout -b feature_1`
+  - `git config.alias co=checkout`
 - merge/rebase
 - reset
 - setup auto rebase:
