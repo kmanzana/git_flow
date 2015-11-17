@@ -8,3 +8,14 @@ Git workflow commands
 - `git commit -m 'commit message'`
 - `git push <remote> <local branch>:<remote branch>`
 - `git pull`
+
+
+#### Resolving merge conflicts
+```
+the number of planets are
+<<<<<<< HEAD
+nine
+=======
+eight
+>>>>>>> master
+```
