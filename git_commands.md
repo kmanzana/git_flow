@@ -19,3 +19,9 @@ nine
 eight
 >>>>>>> master
 ```
+
+
+#### Try it
+- set up a repo with a `README.md`
+- add your name to the readme
+- push it to master
