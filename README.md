@@ -23,6 +23,7 @@
 - release branches
 - random hacks
  - `subl` setup
+   - `ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl`
  - sublime config
  - oh-my-zsh
  - aliases
