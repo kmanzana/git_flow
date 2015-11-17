@@ -1,6 +1,8 @@
 #### What would you like to learn? What questions would you like answered?
+...
 
-#### assumptions
+#### Assumptions
+...
 
 #### Agenda
 - git commands/worfklow
